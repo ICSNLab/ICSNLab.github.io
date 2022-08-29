@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hud052ef43b58245a22b193f6ee0e29bd0_6046_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
@@ -18,6 +18,9 @@
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
+&lt;p&gt;We welcome👋 graduate students, researchers and collaborators from China and worldwide to join us in our interdisciplinary research involving machine learning, optical communications and networking, and digital signal processing to make important advances and develop new technologies for future autonomous and intelligent communication networks and sensing systems.&lt;/p&gt;
+&lt;p&gt;Machine learning (ML) has revolutionized a number of science and engineering disciplines over the past few years. It is also being hailed as a new direction of innovation to transform future fiber-optic communication systems and solve several critical problems in optical networks that cannot be easily tackled using conventional approaches. Over the past few years, serious efforts have been made by both industry and academia to exploit ML methods in various aspects of fiber-optic communications and networking. Examples of such works include ML-based: end-to-end learning of complete fiber-optic communication system, adaptive allocation of network resources, proactive fault detection/prevention and root cause analysis, prediction of lightpaths’ quality, optical performance monitoring, cross-layer optimizations for software-defined networks (SDNs), intrusions detection and network security management, etc.&lt;/p&gt;
+&lt;p&gt;We are a group of enthusiastic researchers at Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University, working on the fusion of ML algorithms and next-generation fiber-optic communication networks as well as sensing systems. We bring together ML concepts, communication theory, physics of light-matter interaction, and the engineering spirit of making real-world impacts. We aim to develop new and interesting ideas and demonstrate their practical applications. We welcome students from China and all around the world to work together in making important technological advancements towards realizing ML-based solutions for future intelligent optical network infrastructures and smart sensing systems.&lt;/p&gt;
 </description>
     </item>
     
