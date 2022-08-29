@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | ICSNLab</title>
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,15 +13,40 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>Digital twins of optical networks</title>
+      <link>https://example.com/project/dt/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/dt/</guid>
+      <description>&lt;p&gt;Digital twins has earned its reputation in manufactures, optical networks could also benefit from its digital twin, which is built upon the historical record, physical model and real-time monitoring data of the optical network in real world. The most important application of digital twins is to perform experiments on this digital replica rather than the real system, which helps reduce the risk and provides opptunity for bolder attempt.&lt;/p&gt;
+&lt;p&gt;We are establishing framework for digital twins of optical system, novel architectures and efficient algorithms are being expected.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Domain adaption in optical transmission system</title>
+      <link>https://example.com/project/da/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/da/</guid>
+      <description>&lt;p&gt;When deploying network control or prediction algorithms, it is often faced with mild or drastic environmental changes. One kind of uncertainty comes from the change of the external environment itself over time, and the other comes from the topology change of the network itself. We work on developing a domain adaption paradigm that minimizes the impact of environmental changes on algorithm performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topological photonic crystal applications</title>
+      <link>https://example.com/project/ayubing/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ayubing/</guid>
+      <description>&lt;p&gt;Analogizing the topological phase of matter with substitutes in optics, topological photonics can make the transmission of light highly robust, which can be immune to some defects in the manufacturing process of integrated photonic devices. Two dimensional photonic crystal is the most common platform to realize topological photonic effect. Through some geometric design of topological PhC, some common photonic devices can be realized, which can be applied to communication, sensing, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quality of transmission estimation</title>
       <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;QoT estimation has always been a crucial task for optical communication systems, by predicting the transmission OSNR, BER or any other indicator of quality, the desiners could know whether the link is trustworthy or not in advance, they can take actions such as change the route or give higher system margin.&lt;/p&gt;
+&lt;p&gt;QoT estimation has been studied for years, however we are still facing some challenges. Modern optical networks are dynamic and running in ultra high speed, the conventional QoT estimation methods remains to be statical and lack of efficiency. Our research in QoT estimation tries to propose novel methods using the state-of-the-art model for addressing such challenges.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | ICSNLab</title>
+    <link>https://example.com/tag/machine-learning/</link>
+      <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://example.com/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning methods for optical communication systems and networks</title>
+      <link>https://example.com/publication/book2/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/book2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optical communication’s perspective on machine learning and its applications</title>
+      <link>https://example.com/publication/journal1/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of ML and analytical models for lightpaths QoT estimation</title>
+      <link>https://example.com/publication/conf1/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conf1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical performance monitoring: a review of current and future technologies</title>
+      <link>https://example.com/publication/journal2/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain adaption in optical transmission system</title>
+      <link>https://example.com/project/da/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/da/</guid>
+      <description>&lt;p&gt;When deploying network control or prediction algorithms, it is often faced with mild or drastic environmental changes. One kind of uncertainty comes from the change of the external environment itself over time, and the other comes from the topology change of the network itself. We work on developing a domain adaption paradigm that minimizes the impact of environmental changes on algorithm performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quality of transmission estimation</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;QoT estimation has always been a crucial task for optical communication systems, by predicting the transmission OSNR, BER or any other indicator of quality, the desiners could know whether the link is trustworthy or not in advance, they can take actions such as change the route or give higher system margin.&lt;/p&gt;
+&lt;p&gt;QoT estimation has been studied for years, however we are still facing some challenges. Modern optical networks are dynamic and running in ultra high speed, the conventional QoT estimation methods remains to be statical and lack of efficiency. Our research in QoT estimation tries to propose novel methods using the state-of-the-art model for addressing such challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Future Fiber-Optic Communication Systems</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

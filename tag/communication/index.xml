@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication | ICSNLab</title>
+    <link>https://example.com/tag/communication/</link>
+      <atom:link href="https://example.com/tag/communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Communication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Communication</title>
+      <link>https://example.com/tag/communication/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning methods for optical communication systems and networks</title>
+      <link>https://example.com/publication/book2/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/book2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optical communication’s perspective on machine learning and its applications</title>
+      <link>https://example.com/publication/journal1/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of ML and analytical models for lightpaths QoT estimation</title>
+      <link>https://example.com/publication/conf1/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conf1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward transmission based ultra-long distributed vibration sensing with wide frequency response</title>
+      <link>https://example.com/publication/conf2/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conf2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical performance monitoring: a review of current and future technologies</title>
+      <link>https://example.com/publication/journal2/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital twins of optical networks</title>
+      <link>https://example.com/project/dt/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/dt/</guid>
+      <description>&lt;p&gt;Digital twins has earned its reputation in manufactures, optical networks could also benefit from its digital twin, which is built upon the historical record, physical model and real-time monitoring data of the optical network in real world. The most important application of digital twins is to perform experiments on this digital replica rather than the real system, which helps reduce the risk and provides opptunity for bolder attempt.&lt;/p&gt;
+&lt;p&gt;We are establishing framework for digital twins of optical system, novel architectures and efficient algorithms are being expected.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Future Fiber-Optic Communication Systems</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

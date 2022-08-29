@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>silicon photonics | ICSNLab</title>
+    <link>https://example.com/tag/silicon-photonics/</link>
+      <atom:link href="https://example.com/tag/silicon-photonics/index.xml" rel="self" type="application/rss+xml" />
+    <description>silicon photonics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>silicon photonics</title>
+      <link>https://example.com/tag/silicon-photonics/</link>
+    </image>
+    
+    <item>
+      <title>Topological photonic crystal applications</title>
+      <link>https://example.com/project/ayubing/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ayubing/</guid>
+      <description>&lt;p&gt;Analogizing the topological phase of matter with substitutes in optics, topological photonics can make the transmission of light highly robust, which can be immune to some defects in the manufacturing process of integrated photonic devices. Two dimensional photonic crystal is the most common platform to realize topological photonic effect. Through some geometric design of topological PhC, some common photonic devices can be realized, which can be applied to communication, sensing, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

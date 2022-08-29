@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICSNLab</title>
+    <link>https://example.com/tag/icsnlab/</link>
+      <atom:link href="https://example.com/tag/icsnlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICSNLab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ICSNLab</title>
+      <link>https://example.com/tag/icsnlab/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to ICSNLab, the nice big family</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
